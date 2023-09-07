@@ -3,7 +3,9 @@
 
 Video
 
-https://github.com/johnmbunga/Webot-Summer-Project/assets/111804580/4fd54959-4b79-42f1-9eeb-dd26418d74a2
+https://github.com/johnmbunga/Webot-Summer-Project/assets/111804580/c407d1dc-6f36-4c32-b5a8-78dadfb81952
+
+
 
 
 
